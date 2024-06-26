@@ -1,0 +1,2 @@
+# DECISION TREE ALGORITHM IMPLEMENTATION IN PYTHON
+it shows how a decision tree is implemented in python, the data used is the [iris dataset](https://archive.ics.uci.edu/dataset/53/iris). This project is a practice in how to create decision tree model in python and look and test its accuracy
